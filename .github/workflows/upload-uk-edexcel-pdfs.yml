@@ -1,0 +1,25 @@
+name: Publish UK Edexcel 9MA0 9FM0 9PH0 question and mark PDF files
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/upload-uk-edexcel-pdfs.yml"
+      - "scripts/upload_uk_edexcel_pdfs.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror-uk-pdfs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch published UK maths, further maths and physics PDFs and upload them as GitHub Release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/upload_uk_edexcel_pdfs.py
