@@ -1,0 +1,253 @@
+{
+  "course_id": "IAL-MATH-P3",
+  "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+  "year": 2022,
+  "session": "June",
+  "question_count": 9,
+  "source_repo": "samuel-resource-members/international-stem-members",
+  "questions": [
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q01",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "1",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q01"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q01.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q01.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q01/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q02",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "2",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q02"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q02.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q02.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q02/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q03",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "3",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q03"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q03.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q03.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q03/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q04",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "4",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q04"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q04.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q04.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q04/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q05",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "5",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q05"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q05.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q05.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q05/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q06",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "6",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q06"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q06.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q06.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q06/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q07",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "7",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q07"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q07.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q07.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q07/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q08",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "8",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q08"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q08.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q08.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q08/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WMA13-2022-june-p3-01-qp__q09",
+      "course_id": "IAL-MATH-P3",
+      "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+      "year": 2022,
+      "session": "June",
+      "paper": "P3",
+      "variant": "01",
+      "question_number": "9",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WMA13-2022-june-p3-01-qp__q09"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q09.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2022-june-p3-01-qp__q09.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WMA13-2022-june-p3-01-qp__q09/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Mathematics WMA13 — June 2022 — P3 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/June%202022%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    }
+  ]
+}
