@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "title": "Edexcel Maths & Physics AI Catalogue",
+  "repository": "samuelyeung-space/edexcel-math-physics-library",
+  "branch": "edexcel-math-physics-library",
+  "question_count": 118,
+  "course_count": 14,
+  "courses": [
+    {
+      "course_id": "IAL-MATH-P1",
+      "question_count": 9,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-P1.json"
+    },
+    {
+      "course_id": "IAL-MATH-P2",
+      "question_count": 10,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-P2.json"
+    },
+    {
+      "course_id": "IAL-MATH-P3",
+      "question_count": 10,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-P3.json"
+    },
+    {
+      "course_id": "IAL-MATH-P4",
+      "question_count": 9,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-P4.json"
+    },
+    {
+      "course_id": "IAL-MATH-FP1",
+      "question_count": 10,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-FP1.json"
+    },
+    {
+      "course_id": "IAL-MATH-FP2",
+      "question_count": 9,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-FP2.json"
+    },
+    {
+      "course_id": "IAL-MATH-FP3",
+      "question_count": 9,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-FP3.json"
+    },
+    {
+      "course_id": "IAL-MATH-M1",
+      "question_count": 7,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-M1.json"
+    },
+    {
+      "course_id": "IAL-MATH-M2",
+      "question_count": 7,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-M2.json"
+    },
+    {
+      "course_id": "IAL-MATH-M3",
+      "question_count": 8,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-M3.json"
+    },
+    {
+      "course_id": "IAL-MATH-S1",
+      "question_count": 7,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-S1.json"
+    },
+    {
+      "course_id": "IAL-MATH-S2",
+      "question_count": 7,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-S2.json"
+    },
+    {
+      "course_id": "IAL-MATH-S3",
+      "question_count": 8,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-S3.json"
+    },
+    {
+      "course_id": "IAL-MATH-D1",
+      "question_count": 8,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-D1.json"
+    }
+  ],
+  "existing_upstream_question_records": 440,
+  "existing_upstream_course_files": [
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/upstream/IAL-MATH-P3.json",
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/upstream/IAL-PHYSICS-UNIT-1.json",
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/upstream/EDEXCEL-UK.json"
+  ],
+  "source_registration_total": 1541,
+  "source_registries": [
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/IAL-MATH.json",
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/IAL-PHYSICS.json",
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/UK-MATH.json",
+    "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/UK-PHYSICS.json"
+  ],
+  "status": "2026_QP_MS_hashes_and_metadata_hosted; PDFs remain in private archive"
+}
