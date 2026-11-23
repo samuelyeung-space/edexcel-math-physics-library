@@ -1,0 +1,28 @@
+# pdf-ial-physics-2026-january · PDF 直接下载
+
+本页有 **24** 份 PDF，点击文件名直接下载。文件保存在本 GitHub 仓库 Releases。
+
+- [Edexcel_IAL_Physics_2026_January_U1_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U1_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U1_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U1_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U1_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U1_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U1_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U1_01A_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U2_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U2_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U2_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U2_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U2_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U2_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U2_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U2_01A_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U3_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U3_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U3_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U3_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U3_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U3_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U3_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U3_01A_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U4_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U4_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U4_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U4_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U4_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U4_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U4_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U4_01A_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U5_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U5_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U5_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U5_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U5_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U5_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U5_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U5_01A_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U6_01_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U6_01_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U6_01_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U6_01_QP.pdf)
+- [Edexcel_IAL_Physics_2026_January_U6_01A_MS.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U6_01A_MS.pdf)
+- [Edexcel_IAL_Physics_2026_January_U6_01A_QP.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2026-january/Edexcel_IAL_Physics_2026_January_U6_01A_QP.pdf)

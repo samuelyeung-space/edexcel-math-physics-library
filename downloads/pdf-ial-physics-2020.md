@@ -1,0 +1,24 @@
+# pdf-ial-physics-2020 · PDF 直接下载
+
+本页有 **20** 份 PDF，点击文件名直接下载。文件保存在本 GitHub 仓库 Releases。
+
+- [window-ial-physics-unit-1-2020-january-wph11-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-1-2020-january-wph11-01-mark-scheme.pdf)
+- [window-ial-physics-unit-1-2020-january-wph11-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-1-2020-january-wph11-01-question-paper.pdf)
+- [window-ial-physics-unit-1-2020-october-wph11-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-1-2020-october-wph11-01-mark-scheme.pdf)
+- [window-ial-physics-unit-1-2020-october-wph11-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-1-2020-october-wph11-01-question-paper.pdf)
+- [window-ial-physics-unit-2-2020-january-wph12-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-2-2020-january-wph12-01-mark-scheme.pdf)
+- [window-ial-physics-unit-2-2020-january-wph12-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-2-2020-january-wph12-01-question-paper.pdf)
+- [window-ial-physics-unit-2-2020-october-wph12-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-2-2020-october-wph12-01-mark-scheme.pdf)
+- [window-ial-physics-unit-2-2020-october-wph12-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-2-2020-october-wph12-01-question-paper.pdf)
+- [window-ial-physics-unit-3-2020-january-wph13-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-3-2020-january-wph13-01-mark-scheme.pdf)
+- [window-ial-physics-unit-3-2020-january-wph13-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-3-2020-january-wph13-01-question-paper.pdf)
+- [window-ial-physics-unit-3-2020-october-wph13-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-3-2020-october-wph13-01-mark-scheme.pdf)
+- [window-ial-physics-unit-3-2020-october-wph13-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-3-2020-october-wph13-01-question-paper.pdf)
+- [window-ial-physics-unit-4-2020-january-wph14-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-4-2020-january-wph14-01-mark-scheme.pdf)
+- [window-ial-physics-unit-4-2020-january-wph14-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-4-2020-january-wph14-01-question-paper.pdf)
+- [window-ial-physics-unit-4-2020-october-wph14-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-4-2020-october-wph14-01-mark-scheme.pdf)
+- [window-ial-physics-unit-4-2020-october-wph14-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-4-2020-october-wph14-01-question-paper.pdf)
+- [window-ial-physics-unit-5-2020-october-wph15-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-5-2020-october-wph15-01-mark-scheme.pdf)
+- [window-ial-physics-unit-5-2020-october-wph15-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-5-2020-october-wph15-01-question-paper.pdf)
+- [window-ial-physics-unit-6-2020-october-wph16-01-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-6-2020-october-wph16-01-mark-scheme.pdf)
+- [window-ial-physics-unit-6-2020-october-wph16-01-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2020/window-ial-physics-unit-6-2020-october-wph16-01-question-paper.pdf)

@@ -1,5 +1,7 @@
 # Edexcel Mathematics & Physics · 教学题库
 
+**[直接下载爱德思 QP／Mark Scheme PDF（按年份）](downloads/README.md)** · [所有 PDF Releases](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases)
+
 此仓库是 **独立的 GitHub 教学题库**，为 AI 按课程、年份、卷别、题号检索提供入口。
 
 **[查看完整课程目录](catalog/README.md)** · [机器索引](catalog/index.json)
