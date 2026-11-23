@@ -2,9 +2,9 @@
   "schema_version": 1,
   "title": "Edexcel Maths & Physics AI Catalogue",
   "repository": "samuelyeung-space/edexcel-math-physics-library",
-  "branch": "edexcel-math-physics-library",
-  "question_count": 118,
-  "course_count": 14,
+  "branch": "main",
+  "question_count": 558,
+  "course_count": 16,
   "courses": [
     {
       "course_id": "IAL-MATH-P1",
@@ -18,7 +18,7 @@
     },
     {
       "course_id": "IAL-MATH-P3",
-      "question_count": 10,
+      "question_count": 144,
       "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-P3.json"
     },
     {
@@ -75,6 +75,16 @@
       "course_id": "IAL-MATH-D1",
       "question_count": 8,
       "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-MATH-D1.json"
+    },
+    {
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "question_count": 263,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/IAL-PHYSICS-UNIT-1.json"
+    },
+    {
+      "course_id": "EDEXCEL-UK",
+      "question_count": 43,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/courses/EDEXCEL-UK.json"
     }
   ],
   "existing_upstream_question_records": 440,
@@ -90,5 +100,7 @@
     "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/UK-MATH.json",
     "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/sources/UK-PHYSICS.json"
   ],
-  "status": "2026_QP_MS_hashes_and_metadata_hosted; PDFs remain in private archive"
+  "status": "2026_QP_MS_hashes_and_metadata_hosted; PDFs remain in private archive",
+  "local_mirrored_question_records": 440,
+  "publication_status": "metadata_synced: 558 single-question reference pages, 46 paper indexes, 16 course indexes. PDFs not in this repository"
 }

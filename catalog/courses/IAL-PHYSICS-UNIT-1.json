@@ -1,0 +1,123 @@
+{
+  "course_id": "IAL-PHYSICS-UNIT-1",
+  "subject": "physics",
+  "question_count": 263,
+  "paper_count": 14,
+  "years": "2021–2025",
+  "papers": [
+    {
+      "year": 2021,
+      "session": "January",
+      "paper": "edexcel-ial-WPH11-2021-january-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2021-january-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2021-january-unit-1-01-qp.json"
+    },
+    {
+      "year": 2021,
+      "session": "June",
+      "paper": "edexcel-ial-WPH11-2021-june-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2021-june-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2021-june-unit-1-01-qp.json"
+    },
+    {
+      "year": 2021,
+      "session": "October",
+      "paper": "edexcel-ial-WPH11-2021-october-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2021-october-unit-1-01-qp",
+      "question_count": 19,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2021-october-unit-1-01-qp.json"
+    },
+    {
+      "year": 2022,
+      "session": "January",
+      "paper": "edexcel-ial-WPH11-2022-january-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2022-january-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2022-january-unit-1-01-qp.json"
+    },
+    {
+      "year": 2022,
+      "session": "June",
+      "paper": "edexcel-ial-WPH11-2022-june-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2022-june-unit-1-01-qp",
+      "question_count": 19,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2022-june-unit-1-01-qp.json"
+    },
+    {
+      "year": 2022,
+      "session": "October",
+      "paper": "edexcel-ial-WPH11-2022-october-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2022-october-unit-1-01-qp",
+      "question_count": 19,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2022-october-unit-1-01-qp.json"
+    },
+    {
+      "year": 2023,
+      "session": "January",
+      "paper": "edexcel-ial-WPH11-2023-january-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2023-january-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2023-january-unit-1-01-qp.json"
+    },
+    {
+      "year": 2023,
+      "session": "June",
+      "paper": "edexcel-ial-WPH11-2023-june-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2023-june-unit-1-01-qp",
+      "question_count": 20,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2023-june-unit-1-01-qp.json"
+    },
+    {
+      "year": 2023,
+      "session": "October",
+      "paper": "edexcel-ial-WPH11-2023-october-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2023-october-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2023-october-unit-1-01-qp.json"
+    },
+    {
+      "year": 2024,
+      "session": "January",
+      "paper": "edexcel-ial-WPH11-2024-january-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2024-january-unit-1-01-qp",
+      "question_count": 18,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2024-january-unit-1-01-qp.json"
+    },
+    {
+      "year": 2024,
+      "session": "June",
+      "paper": "edexcel-ial-WPH11-2024-june-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2024-june-unit-1-01-qp",
+      "question_count": 19,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2024-june-unit-1-01-qp.json"
+    },
+    {
+      "year": 2024,
+      "session": "October",
+      "paper": "edexcel-ial-WPH11-2024-october-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2024-october-unit-1-01-qp",
+      "question_count": 19,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2024-october-unit-1-01-qp.json"
+    },
+    {
+      "year": 2025,
+      "session": "January",
+      "paper": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "question_count": 20,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2025-january-unit-1-01-qp.json"
+    },
+    {
+      "year": 2025,
+      "session": "June",
+      "paper": "edexcel-ial-WPH11-2025-june-unit-1-01-qp",
+      "paper_id": "edexcel-ial-WPH11-2025-june-unit-1-01-qp",
+      "question_count": 20,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WPH11-2025-june-unit-1-01-qp.json"
+    }
+  ],
+  "PDFs_hosted_in_repo": false,
+  "provenance": "2021-25 question metadata mirrored from existing public member repository; original downloads stay at upstream"
+}

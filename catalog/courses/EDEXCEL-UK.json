@@ -1,0 +1,43 @@
+{
+  "course_id": "EDEXCEL-UK",
+  "subject": "math",
+  "question_count": 43,
+  "paper_count": 4,
+  "years": "2025",
+  "papers": [
+    {
+      "year": 2025,
+      "session": "June",
+      "paper": "edexcel-uk-9ma0-2025-june-p1-qp",
+      "paper_id": "edexcel-uk-9ma0-2025-june-p1-qp",
+      "question_count": 16,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-uk-9ma0-2025-june-p1-qp.json"
+    },
+    {
+      "year": 2025,
+      "session": "June",
+      "paper": "edexcel-uk-9ma0-2025-june-p2-qp",
+      "paper_id": "edexcel-uk-9ma0-2025-june-p2-qp",
+      "question_count": 15,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-uk-9ma0-2025-june-p2-qp.json"
+    },
+    {
+      "year": 2025,
+      "session": "June",
+      "paper": "edexcel-uk-9ma0-2025-june-p3-mech-qp",
+      "paper_id": "edexcel-uk-9ma0-2025-june-p3-mech-qp",
+      "question_count": 6,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-uk-9ma0-2025-june-p3-mech-qp.json"
+    },
+    {
+      "year": 2025,
+      "session": "June",
+      "paper": "edexcel-uk-9ma0-2025-june-p3-stats-qp",
+      "paper_id": "edexcel-uk-9ma0-2025-june-p3-stats-qp",
+      "question_count": 6,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-uk-9ma0-2025-june-p3-stats-qp.json"
+    }
+  ],
+  "PDFs_hosted_in_repo": false,
+  "provenance": "2021-25 question metadata mirrored from existing public member repository; original downloads stay at upstream"
+}

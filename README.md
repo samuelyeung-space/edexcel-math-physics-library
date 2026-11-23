@@ -1,12 +1,25 @@
-# Edexcel Mathematics & Physics — AI catalogue
+# Edexcel Mathematics & Physics · 教学题库
 
-This is a dedicated **Git branch within samuelyeung-space/edexcel-math-physics-library**. It is an independent GitHub repository.
+此仓库是 **独立的 GitHub 教学题库**，为 AI 按课程、年份、卷别、题号检索提供入口。
 
-**Read catalogue:** https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/index.json
+**[查看完整课程目录](catalog/README.md)** · [机器索引](catalog/index.json)
 
-Contents:
-- **118 independently identified 2026 January IAL maths whole questions** across 14 units, each with original question-PDF and official-MS PDF hashes. PDF bytes remain in private archive.
-- Links to **440 existing upstream public question records**: 134 IAL maths P3, 263 IAL physics U1, 43 Edexcel UK maths. These are currently linked to the upstream membership repo, not copied.
-- **1,541 source registrations** across Edexcel IAL maths/physics and Edexcel UK maths/physics. Links may be duplicated or restricted. A registry is not proof of every paper having been downloaded.
+## 已有真实题目索引
 
-No copyrighted QP/MS binaries are publicly hosted by this branch. Topic labels, OCR and mathematical content require verification before books are published. Do not claim it is the complete historical set.
+| 项目 | 逐题元数据 | 范围 |
+| --- | ---: | --- |
+| Edexcel IAL 数学 2026 Jan | 118 | P1–P4、FP1–FP3、M1–M3、S1–S3、D1 |
+| Edexcel IAL 数学 P3 历史 | 134 | 2021–2025 |
+| Edexcel IAL 物理 Unit 1 | 263 | 2021–2025 |
+| UK Edexcel A Level 数学 | 43 | 2025 |
+| **合计** | **558** | 16 个课程索引，46 份题组记录 |
+
+保留了另 **1,541 条历史原卷/Mark Scheme 来源登记**（2016–2025 IAL 数学和物理、2021–2025 UK 数学和物理）。注意来源登记有重复或受限链接，**不等于全部卷子已下载或完整**。
+
+## 给 AI 读取
+
+先读取 [catalog/index.json](https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/index.json)，沿 `courses[].file` 进入课程列表，沿 `papers[].file` 进入试卷题号清单，随后按 `questions[].question_file` 获取逐题元数据及来源链接。
+
+**重要区别：**2026 Jan 118 道题及官方 MS 的 PDF 已在用户私有档案中校验，但**PDF 文件本身没有放入本公开仓库**；另外 440 道题也仅镜像了元数据，原题 PDF、Mark Scheme 仍通过旧归档和官方原始来源取用。这不是可直接下载所有原题的题库，也不是完成数学内容审查的《小白书》。
+
+请勿将未经授权的考试机构原卷公开再分发。
