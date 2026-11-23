@@ -1,0 +1,11 @@
+# IAL-MATH-P3 · 2025 · January · P3 · Q4
+
+- Source question ID: `edexcel-ial-WMA13-2025-january-p3-01-qp__q04`
+- Topic: 积分
+- Knowledge point: 不定积分
+- Problem type: 求原函数或使用积分结果
+- [Original published question record](https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/edexcel-ial-WMA13-2025-january-p3-01-qp__q04.md)
+- [Source resource ZIP](https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip)
+- [Published marking reference](https://pmt.physicsandmathstutor.com/download/Maths/A-level/Papers/Edexcel-IAL/Pure/P3/MS/January%202025%20MS.pdf)
+
+*This page indexes metadata and links; the original exam PDF has not been copied into this repository.*
