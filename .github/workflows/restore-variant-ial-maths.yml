@@ -1,0 +1,46 @@
+name: Restore findable 2024R and 2025A IAL maths PDF files
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/restore-variant-ial-maths.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload variant QP/MS PDFs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import concurrent.futures,json,subprocess,tempfile,urllib.request,os
+          from pathlib import Path
+          jobs=json.loads(r'''[{"id":"edexcel-ial-WFM02-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_F2A.pdf"},{"id":"edexcel-ial-WFM02-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_F2A.pdf"},{"id":"edexcel-ial-WMA11-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_P1A.pdf"},{"id":"edexcel-ial-WMA11-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_P1A.pdf"},{"id":"edexcel-ial-WMA12-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_P2A.pdf"},{"id":"edexcel-ial-WMA12-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_P2A.pdf"},{"id":"edexcel-ial-WMA13-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_P3A.pdf"},{"id":"edexcel-ial-WMA13-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_P3A.pdf"},{"id":"edexcel-ial-WMA14-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_P4A.pdf"},{"id":"edexcel-ial-WMA14-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_P4A.pdf"},{"id":"edexcel-ial-WME02-01A-2025-june-ms","year":2025,"url":"https://edemat.alevelclouds.com/25_06_MS_M2A.pdf"},{"id":"edexcel-ial-WME02-01A-2025-june-qp","year":2025,"url":"https://edemat.alevelclouds.com/25_06_QP_M2A.pdf"},{"id":"edexcel-ial-WMA11-01R-2024-june-ms","year":2024,"url":"https://edemat.alevelclouds.com/24_06_MS_P1R.pdf"},{"id":"edexcel-ial-WMA11-01R-2024-june-qp","year":2024,"url":"https://edemat.alevelclouds.com/24_06_QP_P1R.pdf"},{"id":"edexcel-ial-WMA12-01R-2024-june-ms","year":2024,"url":"https://edemat.alevelclouds.com/24_06_MS_P2R.pdf"},{"id":"edexcel-ial-WMA12-01R-2024-june-qp","year":2024,"url":"https://edemat.alevelclouds.com/24_06_QP_P2R.pdf"}]''')
+          repo=os.environ["GITHUB_REPOSITORY"]
+          def load(j,folder):
+              try:
+                  req=urllib.request.Request(j["url"],headers={"User-Agent":"Mozilla/5.0"})
+                  with urllib.request.urlopen(req,timeout=35) as r:data=r.read(36*1024*1024)
+                  if not data.startswith(b"%PDF-"):return None
+                  path=folder/(j["id"]+".pdf")
+                  path.write_bytes(data)
+                  return j,path
+              except Exception as e:
+                  print("NOT_AVAILABLE",j["id"],str(e)[:110],flush=True)
+                  return None
+          with tempfile.TemporaryDirectory() as dirname:
+              folder=Path(dirname)
+              with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
+                  found=[x for x in ex.map(lambda j:load(j,folder),jobs) if x]
+              good=0
+              for j,path in found:
+                  tag=f"pdf-ial-math-{j['year']}"
+                  cmd=subprocess.run(["gh","release","upload",tag,str(path),"--clobber","-R",repo],capture_output=True,text=True)
+                  if cmd.returncode==0:good+=1
+                  else:print("UPLOAD_FAILED",path.name,cmd.stderr[:180],flush=True)
+              print("VARIANT_PDFS_UPLOADED",good,"/",len(jobs))
+          PY
