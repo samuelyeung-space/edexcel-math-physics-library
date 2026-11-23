@@ -1,0 +1,15 @@
+{
+  "course_id": "IAL-MATH-D1",
+  "subject": "math",
+  "question_count": 8,
+  "paper_count": 1,
+  "papers": [
+    {
+      "paper_id": "edexcel-ial-WDM11-2026-january-d1-01-qp",
+      "year": 2026,
+      "session": "January",
+      "question_count": 8,
+      "file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/catalog/papers/edexcel-ial-WDM11-2026-january-d1-01-qp.json"
+    }
+  ]
+}
