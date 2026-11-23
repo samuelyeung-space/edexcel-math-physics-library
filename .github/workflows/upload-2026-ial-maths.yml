@@ -1,0 +1,25 @@
+name: Publish 2026 January Edexcel IAL Maths QP and MS PDFs
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/upload-2026-ial-maths.yml"
+      - "scripts/upload_2026_ial_math.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Upload all 56 2026 January PDF sources to this GitHub repository Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/upload_2026_ial_math.py
