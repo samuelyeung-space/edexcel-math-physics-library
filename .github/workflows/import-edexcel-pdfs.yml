@@ -1,6 +1,10 @@
 name: Mirror existing Edexcel exam PDFs to this repository
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/import-edexcel-pdfs.yml'
 
 permissions:
   contents: write
