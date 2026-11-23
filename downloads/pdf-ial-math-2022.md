@@ -1,6 +1,6 @@
-# pdf-ial-math-2022 · PDF 直接下载
+# pdf-ial-math-2022 — 原题与 Mark Scheme PDF
 
-本页有 **138** 份 PDF，点击文件名直接下载。文件保存在本 GitHub 仓库 Releases。
+**138 份 PDF**，文件直接托管在本 GitHub 仓库的 Release 内，点击即可下载。
 
 - [edexcel-ial-WDM11-2022-january-d1-01-ms.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-math-2022/edexcel-ial-WDM11-2022-january-d1-01-ms.pdf)
 - [edexcel-ial-WDM11-2022-january-d1-01-qp.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-math-2022/edexcel-ial-WDM11-2022-january-d1-01-qp.pdf)

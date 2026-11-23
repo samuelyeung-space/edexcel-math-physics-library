@@ -1,10 +1,5 @@
 name: Mirror existing Edexcel exam PDFs to this repository
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/import-edexcel-pdfs.yml"
-      - "scripts/import_pdf_sources.py"
   workflow_dispatch:
 
 permissions:
@@ -42,5 +37,7 @@ jobs:
             echo "No new index changes."
           else
             git commit -m "Publish direct download links for successfully mirrored Edexcel PDFs"
+            git fetch origin main
+            git pull --rebase origin main
             git push origin HEAD:main
           fi

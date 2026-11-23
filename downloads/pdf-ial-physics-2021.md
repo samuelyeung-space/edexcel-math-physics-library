@@ -1,6 +1,6 @@
-# pdf-ial-physics-2021 · PDF 直接下载
+# pdf-ial-physics-2021 — 原题与 Mark Scheme PDF
 
-本页有 **66** 份 PDF，点击文件名直接下载。文件保存在本 GitHub 仓库 Releases。
+**66 份 PDF**，文件直接托管在本 GitHub 仓库的 Release 内，点击即可下载。
 
 - [edexcel-ial-WPH11-2021-january-unit-1-01-ms.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2021/edexcel-ial-WPH11-2021-january-unit-1-01-ms.pdf)
 - [edexcel-ial-WPH11-2021-january-unit-1-01-qp.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2021/edexcel-ial-WPH11-2021-january-unit-1-01-qp.pdf)

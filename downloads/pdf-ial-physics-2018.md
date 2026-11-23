@@ -1,6 +1,6 @@
-# pdf-ial-physics-2018 · PDF 直接下载
+# pdf-ial-physics-2018 — 原题与 Mark Scheme PDF
 
-本页有 **36** 份 PDF，点击文件名直接下载。文件保存在本 GitHub 仓库 Releases。
+**36 份 PDF**，文件直接托管在本 GitHub 仓库的 Release 内，点击即可下载。
 
 - [window-ial-physics-unit-1-2018-january-wph01-01-legacy-mark-scheme.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2018/window-ial-physics-unit-1-2018-january-wph01-01-legacy-mark-scheme.pdf)
 - [window-ial-physics-unit-1-2018-january-wph01-01-legacy-question-paper.pdf](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/download/pdf-ial-physics-2018/window-ial-physics-unit-1-2018-january-wph01-01-legacy-question-paper.pdf)

@@ -1,45 +1,53 @@
 # 爱德思数学、物理 PDF 直接下载
 
-**真实 PDF 文件已放在本 GitHub 仓库的 Releases 中**。点击各年下载页内的文件名，可直接下载 QP 和 Mark Scheme，无需下载索引 ZIP。
+**总计 1,709 份 PDF，全部已存入这个 GitHub 仓库的 Releases。** 不需要安装软件或下载索引 ZIP；选择年份后点击 PDF 文件名就能单独下载。
 
-截至本次汇总：**1523** 份实际文件，25 组；目录会随新增文件再次更新。
+[查看所有 PDF Releases](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases)
 
-## IAL 数学 P1–P4、FP1–FP3、M1–M3、S1–S3、D1
+## 国际 A Level 数学（IAL）
 
-- [pdf-ial-math-2026-june · 56 份 PDF](pdf-ial-math-2026-june.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2026-june)
-- [pdf-ial-math-2026 · 56 份 PDF](pdf-ial-math-2026.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2026)
-- [pdf-ial-math-2025 · 120 份 PDF](pdf-ial-math-2025.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2025)
-- [pdf-ial-math-2024 · 142 份 PDF](pdf-ial-math-2024.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2024)
-- [pdf-ial-math-2023 · 138 份 PDF](pdf-ial-math-2023.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2023)
-- [pdf-ial-math-2022 · 138 份 PDF](pdf-ial-math-2022.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2022)
-- [pdf-ial-math-2021 · 162 份 PDF](pdf-ial-math-2021.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2021)
-- [pdf-ial-math-2020 · 40 份 PDF](pdf-ial-math-2020.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2020)
-- [pdf-ial-math-2019 · 31 份 PDF](pdf-ial-math-2019.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2019)
-- [pdf-ial-math-2018 · 54 份 PDF](pdf-ial-math-2018.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2018)
-- [pdf-ial-math-2017 · 54 份 PDF](pdf-ial-math-2017.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2017)
-- [pdf-ial-math-2016 · 26 份 PDF](pdf-ial-math-2016.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2016)
+- [2026-june · 56 份 PDF](pdf-ial-math-2026-june.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2026-june)
+- [2026 · 56 份 PDF](pdf-ial-math-2026.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2026)
+- [2025 · 132 份 PDF](pdf-ial-math-2025.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2025)
+- [2024 · 146 份 PDF](pdf-ial-math-2024.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2024)
+- [2023 · 138 份 PDF](pdf-ial-math-2023.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2023)
+- [2022 · 138 份 PDF](pdf-ial-math-2022.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2022)
+- [2021 · 162 份 PDF](pdf-ial-math-2021.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2021)
+- [2020 · 40 份 PDF](pdf-ial-math-2020.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2020)
+- [2019 · 31 份 PDF](pdf-ial-math-2019.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2019)
+- [2018 · 54 份 PDF](pdf-ial-math-2018.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2018)
+- [2017 · 54 份 PDF](pdf-ial-math-2017.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2017)
+- [2016 · 26 份 PDF](pdf-ial-math-2016.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-math-2016)
 
-## IAL 物理 Unit 1–6
+## 国际 A Level 物理（IAL）
 
-- [pdf-ial-physics-2026-june · 24 份 PDF](pdf-ial-physics-2026-june.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2026-june)
-- [pdf-ial-physics-2026-january · 24 份 PDF](pdf-ial-physics-2026-january.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2026-january)
-- [pdf-ial-physics-2025 · 44 份 PDF](pdf-ial-physics-2025.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2025)
-- [pdf-ial-physics-2024 · 66 份 PDF](pdf-ial-physics-2024.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2024)
-- [pdf-ial-physics-2023 · 66 份 PDF](pdf-ial-physics-2023.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2023)
-- [pdf-ial-physics-2022 · 66 份 PDF](pdf-ial-physics-2022.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2022)
-- [pdf-ial-physics-2021 · 66 份 PDF](pdf-ial-physics-2021.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2021)
-- [pdf-ial-physics-2020 · 20 份 PDF](pdf-ial-physics-2020.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2020)
-- [pdf-ial-physics-2019 · 38 份 PDF](pdf-ial-physics-2019.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2019)
-- [pdf-ial-physics-2018 · 36 份 PDF](pdf-ial-physics-2018.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2018)
-- [pdf-ial-physics-2017 · 36 份 PDF](pdf-ial-physics-2017.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2017)
-- [pdf-ial-physics-2016 · 12 份 PDF](pdf-ial-physics-2016.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2016)
+- [2026-june · 24 份 PDF](pdf-ial-physics-2026-june.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2026-june)
+- [2026-january · 24 份 PDF](pdf-ial-physics-2026-january.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2026-january)
+- [2025 · 44 份 PDF](pdf-ial-physics-2025.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2025)
+- [2024 · 66 份 PDF](pdf-ial-physics-2024.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2024)
+- [2023 · 66 份 PDF](pdf-ial-physics-2023.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2023)
+- [2022 · 66 份 PDF](pdf-ial-physics-2022.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2022)
+- [2021 · 66 份 PDF](pdf-ial-physics-2021.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2021)
+- [2020 · 20 份 PDF](pdf-ial-physics-2020.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2020)
+- [2019 · 38 份 PDF](pdf-ial-physics-2019.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2019)
+- [2018 · 36 份 PDF](pdf-ial-physics-2018.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2018)
+- [2017 · 36 份 PDF](pdf-ial-physics-2017.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2017)
+- [2016 · 12 份 PDF](pdf-ial-physics-2016.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-ial-physics-2016)
 
-## UK Edexcel 数学
+## 英国 Edexcel 数学与 Further Maths
 
-- [pdf-uk-math-2025 · 8 份 PDF](pdf-uk-math-2025.md) · [GitHub Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2025)
+- [2025 · 36 份 PDF](pdf-uk-math-2025.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2025)
+- [2024 · 28 份 PDF](pdf-uk-math-2024.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2024)
+- [2023 · 28 份 PDF](pdf-uk-math-2023.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2023)
+- [2022 · 28 份 PDF](pdf-uk-math-2022.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2022)
+- [2021 · 28 份 PDF](pdf-uk-math-2021.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-math-2021)
 
-## UK Edexcel 物理
+## 英国 Edexcel 物理
 
+- [2025 · 6 份 PDF](pdf-uk-physics-2025.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-physics-2025)
+- [2024 · 6 份 PDF](pdf-uk-physics-2024.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-physics-2024)
+- [2023 · 6 份 PDF](pdf-uk-physics-2023.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-physics-2023)
+- [2022 · 6 份 PDF](pdf-uk-physics-2022.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-physics-2022)
+- [2021 · 6 份 PDF](pdf-uk-physics-2021.md) · [原始 Release](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases/tag/pdf-uk-physics-2021)
 
-
-[GitHub Releases 查看全部原卷](https://github.com/samuelyeung-space/edexcel-math-physics-library/releases)
+说明：QP 为原题卷，MS 为 Mark Scheme。部分年份同卷可能保留多个来源版本，计数是 PDF 文件数，不是去重后的考试场次数。

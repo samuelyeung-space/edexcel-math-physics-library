@@ -102,5 +102,10 @@
   ],
   "status": "2026_QP_MS_hashes_and_metadata_hosted; PDFs remain in private archive",
   "local_mirrored_question_records": 440,
-  "publication_status": "metadata_synced: 558 single-question reference pages, 46 paper indexes, 16 course indexes. PDFs not in this repository"
+  "publication_status": "metadata_synced: 558 single-question reference pages, 46 paper indexes, 16 course indexes. PDFs not in this repository",
+  "pdf_download_count": 1709,
+  "pdf_releases_count": 34,
+  "pdf_download_index": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/downloads/index.json",
+  "pdf_download_navigation": "https://github.com/samuelyeung-space/edexcel-math-physics-library/blob/main/downloads/README.md",
+  "pdf_storage": "GitHub Releases, direct PDF links"
 }
