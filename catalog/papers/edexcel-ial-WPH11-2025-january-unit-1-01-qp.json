@@ -1,0 +1,550 @@
+{
+  "course_id": "IAL-PHYSICS-UNIT-1",
+  "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+  "year": 2025,
+  "session": "January",
+  "question_count": 20,
+  "source_repo": "samuel-resource-members/international-stem-members",
+  "questions": [
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q01",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "1",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q01"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q01.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q01.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q01/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q02",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "2",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q02"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q02.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q02.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q02/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q03",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "3",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q03"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q03.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q03.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q03/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q04",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "4",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Forces",
+      "problem_type": "从受力或形变条件求力",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q04"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q04.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q04.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q04/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q05",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "5",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q05"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q05.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q05.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q05/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q06",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "6",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Forces",
+      "problem_type": "从受力或形变条件求力",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q06"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q06.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q06.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q06/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q07",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "7",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q07"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q07.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q07.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q07/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q08",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "8",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q08"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q08.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q08.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q08/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q09",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "9",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q09"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q09.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q09.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q09/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q10",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "10",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q10"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q10.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q10.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q10/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q11",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "11",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Forces",
+      "problem_type": "从受力或形变条件求力",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q11"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q11.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q11.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q11/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q12",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "12",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Motion",
+      "problem_type": "从运动条件或图像求速度和加速度",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q12"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q12.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q12.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q12/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q13",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "13",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Energy, work and power",
+      "problem_type": "连接功、能量、效率和功率",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q13"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q13.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q13.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q13/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q14",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "14",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Momentum",
+      "problem_type": "使用动量守恒或冲量关系",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q14"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q14.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q14.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q14/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q15",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "15",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Energy, work and power",
+      "problem_type": "连接功、能量、效率和功率",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q15"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q15.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q15.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q15/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q16",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "16",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Physical quantities and measurement",
+      "problem_type": "读仪器、换单位或求测量量",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q16"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q16.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q16.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q16/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q17",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "17",
+      "chapter": null,
+      "knowledge_point": null,
+      "problem_type": null,
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q17"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q17.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q17.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q17/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q18",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "18",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Forces",
+      "problem_type": "从受力或形变条件求力",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q18"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q18.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q18.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q18/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q19",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "19",
+      "chapter": "Electricity and magnetism",
+      "knowledge_point": "Electrical quantities",
+      "problem_type": "用电流、电压、电阻关系分析电路",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q19"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q19.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q19.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q19/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    },
+    {
+      "id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q20",
+      "course_id": "IAL-PHYSICS-UNIT-1",
+      "paper_id": "edexcel-ial-WPH11-2025-january-unit-1-01-qp",
+      "year": 2025,
+      "session": "January",
+      "paper": "Unit 1",
+      "variant": "01",
+      "question_number": "20",
+      "chapter": "Motion, forces and energy",
+      "knowledge_point": "Energy, work and power",
+      "problem_type": "连接功、能量、效率和功率",
+      "topic_tags": [
+        "edexcel-ial-WPH11-2025-january-unit-1-01-qp__q20"
+      ],
+      "question_file": "https://raw.githubusercontent.com/samuelyeung-space/edexcel-math-physics-library/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q20.md",
+      "upstream_question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q20.md",
+      "upstream_resource_zip": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip",
+      "upstream_resource_member": "question-corpus/questions/edexcel-ial-WPH11-2025-january-unit-1-01-qp__q20/question.pdf",
+      "answer_candidates": [
+        {
+          "title": "Pearson Edexcel International Advanced Level Physics WPH11 — January 2025 — Unit 1 — 01 — Mark Scheme",
+          "url": "https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/January%202025%20%28IAL%29%20MS.pdf"
+        }
+      ],
+      "publication_status": "metadata_mirrored_upstream_PDF_unmodified"
+    }
+  ]
+}
