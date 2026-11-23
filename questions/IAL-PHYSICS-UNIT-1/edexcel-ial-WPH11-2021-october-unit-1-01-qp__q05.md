@@ -1,0 +1,11 @@
+# IAL-PHYSICS-UNIT-1 · 2021 · October · Unit 1 · Q5
+
+- Source question ID: `edexcel-ial-WPH11-2021-october-unit-1-01-qp__q05`
+- Topic: Motion, forces and energy
+- Knowledge point: Turning effect of forces
+- Problem type: 用力矩关系处理平衡
+- [Original published question record](https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2021-october-unit-1-01-qp__q05.md)
+- [Source resource ZIP](https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-006.zip)
+- [Published marking reference](https://pmt.physicsandmathstutor.com/download/Physics/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/October%202021%20%28IAL%29%20MS.pdf)
+
+*This page indexes metadata and links; the original exam PDF has not been copied into this repository.*
