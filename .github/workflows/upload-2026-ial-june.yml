@@ -1,0 +1,80 @@
+name: Publish June 2026 Edexcel IAL Maths PDFs
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/upload-2026-ial-june.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Upload 56 June 2026 question and mark-scheme PDFs to this repository
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import concurrent.futures
+          import os
+          from pathlib import Path
+          import subprocess
+          import tempfile
+          import urllib.request
+
+          repo=os.environ["GITHUB_REPOSITORY"]
+          tag="pdf-ial-math-2026-june"
+          units=["P1","P2","P3","P4","F1","F2","F3","M1","M2","M3","S1","S2","S3","D1"]
+
+          def gh(*args):
+              return subprocess.run(["gh",*args,"-R",repo],capture_output=True,text=True)
+
+          def get_pdf(item, folder):
+              unit,variant,kind=item
+              key=unit+variant
+              level="FP"+unit[1:] if unit.startswith("F") else unit
+              v="01A" if variant else "01"
+              path=folder/f"Edexcel_IAL_2026_June_{level}_{v}_{kind}.pdf"
+              url=f"https://edemat.alevelclouds.com/26_06_{kind}_{key}.pdf"
+              try:
+                  rq=urllib.request.Request(url,headers={"User-Agent":"Mozilla/5.0"})
+                  with urllib.request.urlopen(rq,timeout=45) as r:
+                      data=r.read(35*1024*1024)
+                  if not data.startswith(b"%PDF-"):
+                      return None
+                  path.write_bytes(data)
+                  return path
+              except Exception as e:
+                  print("DOWNLOAD FAILED",key,kind,str(e)[:180],flush=True)
+                  return None
+
+          tasks=[(u,v,k) for u in units for v in ("","A") for k in ("QP","MS")]
+          with tempfile.TemporaryDirectory() as d:
+              folder=Path(d)
+              with concurrent.futures.ThreadPoolExecutor(max_workers=10) as pool:
+                  found=[p for p in pool.map(lambda t:get_pdf(t,folder),tasks) if p is not None]
+              print("PDFS_FOUND",len(found),flush=True)
+              if found:
+                  if gh("release","view",tag).returncode:
+                      a=gh("release","create",tag,"--target","main","--title","Edexcel IAL Mathematics June 2026 PDFs","--notes","14 mathematics units, 01/01A variants: question papers and official mark schemes.")
+                      if a.returncode:raise RuntimeError(a.stderr)
+                  done=0
+                  for i in range(0,len(found),10):
+                      b=found[i:i+10]
+                      a=gh("release","upload",tag,*map(str,b),"--clobber")
+                      if a.returncode==0: done+=len(b)
+                      else:
+                          for f in b:
+                              one=gh("release","upload",tag,str(f),"--clobber")
+                              if one.returncode==0:done+=1
+                              else:print("UPLOAD FAILED",f.name,one.stderr[:200],flush=True)
+                  print("PDFS_UPLOADED",done,flush=True)
+          PY
